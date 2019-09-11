@@ -1,0 +1,143 @@
+body{
+    background: rgba(61, 44, 44, 0.966);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+header nav{
+    text-align: right;
+    text-shadow: #000000 1px 1px;
+    font-size: 25px;
+    width: 1328px;
+    float: right;
+    background:  #262726a4;
+    overflow: auto;
+    border: #000000;
+    position: fixed;
+}
+header nav:hover{
+    background-color:  #201f1f88;
+}
+header{
+    text-align: center;
+    float: left;
+    background: rgba(66, 62, 62, 0.986);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 0px 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 32px;
+    color: bisque;
+    text-shadow: #000000 2px 2px 1px;
+}
+header h1{
+    padding: 40px;
+}
+nav ul{
+    list-style: none;
+    padding: 5px 10px 5px 10px;
+    float: right;
+    margin: 0px;
+    border-right: #d1d5d15b;
+}
+nav ul li{
+    display: block;
+    padding: 5px 10px 5px 10px;
+    float: left;
+    margin: 0px;
+}
+nav ul li:hover{
+    text-decoration: #000000;
+}
+nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+.wew{
+    background: url(sunset2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 1328;
+    padding: 20px 0px 20px 0px;
+
+}
+.jos{
+    display: block;
+    text-align: center;
+    background: #1d1c1cc4;
+    width: 1328px;
+    height: 200px;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+.jis{
+    display: block;
+    text-align: center;
+    background: #1d1c1cc4;
+    width: 1328px;
+    height: 200px;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+.jus{
+    display: block;
+    text-align: center;
+    background: #1d1c1cc4;
+    width: 1328px;
+    height: 200px;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+#ND{
+    text-align: center;
+    background: #d1d5d15b;
+    background-position: center;
+    width: 1328px;
+    height: 150px;
+}
+#ND:hover{
+    background-color: #201f1f9a;
+}
+#AG{
+    text-align: center;
+    background: #d1d5d15b;
+    background-position: center;
+    width: 1328px;
+    height: 150px;
+}
+#AG:hover{
+    background-color:  #201f1f9a;
+}
+#PR{
+    text-align: center;
+    background: #d1d5d15b;
+    background-position: center;
+    width: 1328px;
+    height: 150px;
+}
+#PR:hover{
+    background-color:  #201f1f9a;
+}
+.men{
+    float: left;
+}
+.edan{
+    color: #d1d5d15b;
+    font-weight: bold;
+    float: left;
+    width: 800px;
+}
+.pen{
+    text-align: left;
+    overflow: auto;
+    margin: 20px;
+    float: left;
+}

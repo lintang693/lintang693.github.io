@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-image: url(sunset.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size:40px;
+}
+header h1{
+    padding: 40px;
+}
+nav ul{
+    list-style: none;
+    padding: 5px 10px 5px 10px;
+    float: right;
+    margin: 0px;
+    border-right: #d1d5d15b;
+}
+nav ul li{
+    display: block;
+    padding: 5px 10px 5px 10px;
+    float: left;
+    margin: 0px;
+}
+nav ul li:hover{
+    text-decoration: #000000;
+}
+nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+.gege{
+    font-weight: bold;
+    float: left;
+    width: 800px;
+}
+.men{
+    float: left;
+}
+.con{
+    text-align: center;
+    overflow: auto;
+    margin: 20px;
+    float: left;
+}

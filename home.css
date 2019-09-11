@@ -1,0 +1,91 @@
+#bod1{
+   background-color: black;
+}
+h1{
+    font-size: 40px;
+}
+header nav{
+    text-align: right center;
+    text-shadow: #000000 1px 1px;
+    font-size: 25px;
+    width: 1328px;
+    float: right;
+    background: #262726a4;
+    overflow: auto;
+    border: #000000;
+    position:fixed;
+}
+header nav:hover{
+    background-color: #201f1f88;
+}
+header{
+    text-align: center;
+    float: left;
+    background: url(sunset.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px 0px 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 35px;
+    color: azure;
+    text-shadow: #000000 2px 2px 1px;
+}
+header h1{
+    padding: 40px;
+}
+nav ul{
+    list-style: none;
+    padding: 5px 10px 5px 10px;
+    float: right;
+    margin: 0px;
+    border-right: #d1d5d15b;
+}
+nav ul li{
+    display: block;
+    padding: 5px 10px 5px 10px;
+    float: left;
+    margin: 0px;
+}
+nav ul li:hover{
+    text-decoration: #000000;
+}
+nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+#isian{
+    background: #d1d5d1;
+    width: 1000px;
+    height: 500px;
+}
+#muhim{
+    display: block;
+    text-align: center;
+    background: #d1d5d1;
+    width: 1328px;
+    height: 600px;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+.gege{
+    font-weight: bold;
+    float: left;
+    width: 800px;
+
+}
+.men{
+    float: left;
+}
+.con{
+    text-align: center;
+    overflow: auto;
+    margin: 20px;
+    float: left;
+}
+    

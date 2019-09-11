@@ -1,0 +1,28 @@
+#all{
+    width: 960px;
+    margin: auto;
+    border: black 1px solid;   
+}
+body{
+    background-color: blanchedalmond;
+}
+header{
+    text-align: center;
+    height: 280px;
+    width: 980px;
+    float: left;
+    background-image: url(galeri\,1.jpg);
+    background-size: 980px 280px;
+    padding: 20px 0px 20px 0px;
+    font-family: cuprum;
+    font-weight: bold;
+    font-size: 32px;
+    color: black;
+    text-shadow: #000000 2px 2px 1px;
+}
+header h1{
+    padding: 40px;
+}
+nav{
+    
+}
